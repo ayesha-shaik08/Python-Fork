@@ -53,3 +53,5 @@ This change is part of my Git and GitHub collaboration experiment.
 
 I learned how to create a branch, modify files, commit changes,
 and submit a pull request for review.
+## Git Branching Assignment
+This project demonstrates creating branches, updating files, and collaborating using GitHub pull requests.
